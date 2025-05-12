@@ -1,3 +1,5 @@
 Hi! Wow! Oh!
 Hi~
 Hello
+
+Git Stash Test ^^
